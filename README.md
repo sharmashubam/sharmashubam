@@ -19,6 +19,4 @@
 [![](https://gtce.itsvg.in/api?username=sharma@shubamm)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sharmashubam&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
