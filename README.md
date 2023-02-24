@@ -12,7 +12,6 @@
 
 <br/>
 <br/>
-<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sharmashubam&theme=shades-of-purple&hide_border=false)<br/>
 
