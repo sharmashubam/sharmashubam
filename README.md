@@ -13,8 +13,6 @@
 <br/>
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sharmashubam&theme=shades-of-purple&hide_border=false)<br/>
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sharmashubam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
