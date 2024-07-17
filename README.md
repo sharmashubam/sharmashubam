@@ -1,3 +1,3 @@
-# 💫 About Me:
+# About Me:
 
 SHUBAM SHARMA 
